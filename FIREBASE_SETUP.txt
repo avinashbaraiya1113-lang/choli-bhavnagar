@@ -1,0 +1,15 @@
+Choli Bhavnagar Firebase integration
+
+Firebase project: choli-bhavnagar
+Web app: Choli Bhavnagar Website
+
+This build includes:
+- Firebase Web SDK
+- Firebase Authentication (Email/Password) login
+- Firebase Firestore SDK initialization
+- Admin Login button and protected-by-login admin panel
+
+Important:
+- Do not publish or share Firebase account passwords.
+- Firestore security rules should be configured before adding client-side write/read features.
+- The current catalogue remains static and continues to work without Firebase data.
